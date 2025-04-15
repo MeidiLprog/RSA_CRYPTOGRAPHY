@@ -52,6 +52,8 @@ Ce projet propose une **implémentation pédagogique de l'algorithme RSA**, incl
 - Bouton de génération, chiffrement, déchiffrement
 - Affichage des clefs, temps d'exécution, et résultat chiffré/déchiffré
 
+![image_alt](https://github.com/MeidiLprog/RSA_CRYPTOGRAPHY/blob/main/GUI.png?raw=true)
+
 ---
 
 ## Exigences
